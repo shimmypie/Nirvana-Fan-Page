@@ -1,0 +1,24 @@
+.container-fluid{
+  padding: 15% 25% 16% ;
+  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+}
+pre{
+  color: white;
+}
+/*Footer*/
+#footer{
+  text-align: center;
+  background-color: white;
+  padding: 6% 20% 2%;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+a{
+  color: #fa9905;
+}
+.timeline{
+  color : white;
+}
